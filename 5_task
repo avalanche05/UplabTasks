@@ -1,0 +1,8 @@
+<!doctype html>
+
+<html>
+  <script>
+    let name = prompt('Привет! Как тебя зовут?')
+    alert(`Окей. Будем звать тебя ${name}`)
+  </script>
+</html>
